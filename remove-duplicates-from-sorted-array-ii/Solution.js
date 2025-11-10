@@ -9,10 +9,9 @@ var removeDuplicates = function (nums) {
     for (let i = 2; i < nums.length; i++) {
 
         if (nums[i] !== nums[j - 2]) {
-            nums[j] = nums[i];
-            j++;
+            nums[j++] = nums[i];
+
         }
     }
-    return j ;
+    return j;
 };
-process.on("exit", () => require("fs").writeFileSync("display_runtime.txt", "0"));
