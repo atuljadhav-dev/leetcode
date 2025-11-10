@@ -3,7 +3,7 @@
  * @return {number}
  */
 var removeDuplicates = function (nums) {
-    let len=nums.length
+    const len=nums.length
     if (len <= 2) return len;
 
     let j = 2;
@@ -11,7 +11,6 @@ var removeDuplicates = function (nums) {
 
         if (nums[i] !== nums[j - 2]) {
             nums[j++] = nums[i];
-
         }
     }
     return j;
