@@ -8,22 +8,11 @@ class Solution(object):
         pos=[]
         for i in range(0,len(nums)):
             if nums[i]<0:
-                neg.append(nums[i])
+                neg.append(nums[i]*nums[i])
             else:
-                pos.append(nums[i])
-        for i in range (0,len(neg)):
-            neg[i]=neg[i]*neg[i]
-            
-        for i in range(0, len(pos)):
-            pos[i]=pos[i]*pos[i]
-        i=0
-        j=len(neg)-1
-        while i<j:
-            temp=neg[i]
-            neg[i]=neg[j]
-            neg[j]=temp
-            j-=1
-            i+=1
+                pos.append(nums[i]*nums[i])
+        
+        neg=neg[::-1]
         j=i=0
         res=[]
         while i<len(neg) and j<len(pos):
