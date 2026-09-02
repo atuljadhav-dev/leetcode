@@ -4,9 +4,9 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `159`
-- 🟢 **Easy:** `92`
-- 🟡 **Medium:** `62`
+- **Total Solved:** `164`
+- 🟢 **Easy:** `95`
+- 🟡 **Medium:** `64`
 - 🔴 **Hard:** `5`
 
 ## 🏷️ Topic Summary
@@ -14,7 +14,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | Topic | Solved Count |
 | :--- | :---: |
 | `Array` | 70 |
-| `Database` | 46 |
+| `Database` | 51 |
 | `Hash Table` | 33 |
 | `Two Pointers` | 28 |
 | `String` | 28 |
@@ -105,6 +105,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 577 | [Employee Bonus](./employee-bonus/README.md) | Easy | `Database` | [employee-bonus/Solution.sql](./employee-bonus/Solution.sql) |
 | 181 | [Employees Earning More Than Their Managers](./employees-earning-more-than-their-managers/README.md) | Easy | `Database` | [employees-earning-more-than-their-managers/Solution.sql](./employees-earning-more-than-their-managers/Solution.sql) |
 | 2127 | [Employees Whose Manager Left the Company](./employees-whose-manager-left-the-company/README.md) | Easy | `Database` | [employees-whose-manager-left-the-company/Solution.sql](./employees-whose-manager-left-the-company/Solution.sql) |
+| 626 | [Exchange Seats](./exchange-seats/README.md) | Medium | `Database` | [exchange-seats/Solution.sql](./exchange-seats/Solution.sql) |
 | 438 | [Find All Anagrams in a String](./find-all-anagrams-in-a-string/README.md) | Medium | `Hash Table`, `String`, `Sliding Window` | [find-all-anagrams-in-a-string/Solution.py](./find-all-anagrams-in-a-string/Solution.py) |
 | 584 | [Find Customer Referee](./find-customer-referee/README.md) | Easy | `Database` | [find-customer-referee/Solution.sql](./find-customer-referee/Solution.sql) |
 | 34 | [Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | `Array`, `Binary Search` | [find-first-and-last-position-of-element-in-sorted-array/Solution.py](./find-first-and-last-position-of-element-in-sorted-array/Solution.py) |
@@ -170,6 +171,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 43 | [Multiply Strings](./multiply-strings/README.md) | Medium | `Math`, `String`, `Simulation` | [multiply-strings/Solution.py](./multiply-strings/Solution.py) |
 | 620 | [Not Boring Movies](./not-boring-movies/README.md) | Easy | `Database` | [not-boring-movies/Solution.sql](./not-boring-movies/Solution.sql) |
 | 434 | [Number of Segments in a String](./number-of-segments-in-a-string/README.md) | Easy | `String` | [number-of-segments-in-a-string/Solution.py](./number-of-segments-in-a-string/Solution.py) |
+| 2495 | [Number of Unique Subjects Taught by Each Teacher](./number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | `Database` | [number-of-unique-subjects-taught-by-each-teacher/Solution.sql](./number-of-unique-subjects-taught-by-each-teacher/Solution.sql) |
 | 3820 | [Number of Unique XOR Triplets II](./number-of-unique-xor-triplets-ii/README.md) | Medium | `Array`, `Math`, `Bit Manipulation`, `Enumeration` | [number-of-unique-xor-triplets-ii/Solution.py](./number-of-unique-xor-triplets-ii/Solution.py) |
 | 9 | [Palindrome Number](./palindrome-number/README.md) | Easy | `Math` | [palindrome-number/Solution.py](./palindrome-number/Solution.py) |
 | 2265 | [Partition Array According to Given Pivot](./partition-array-according-to-given-pivot/README.md) | Medium | `Array`, `Two Pointers`, `Simulation` | [partition-array-according-to-given-pivot/Solution.py](./partition-array-according-to-given-pivot/Solution.py) |
@@ -178,7 +180,9 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 567 | [Permutation in String](./permutation-in-string/README.md) | Medium | `Hash Table`, `Two Pointers`, `String`, `Sliding Window` | [permutation-in-string/Solution.py](./permutation-in-string/Solution.py) |
 | 66 | [Plus One](./plus-one/README.md) | Easy | `Array`, `Math` | [plus-one/Solution.py](./plus-one/Solution.py) |
 | 50 | [Pow(x, n)](./powx-n/README.md) | Medium | `Math`, `Recursion` | [powx-n/Solution.py](./powx-n/Solution.py) |
+| 1942 | [Primary Department for Each Employee](./primary-department-for-each-employee/README.md) | Easy | `Database` | [primary-department-for-each-employee/Solution.sql](./primary-department-for-each-employee/Solution.sql) |
 | 1153 | [Product Sales Analysis I](./product-sales-analysis-i/README.md) | Easy | `Database` | [product-sales-analysis-i/Solution.sql](./product-sales-analysis-i/Solution.sql) |
+| 1155 | [Product Sales Analysis III](./product-sales-analysis-iii/README.md) | Medium | `Database` | [product-sales-analysis-iii/Solution.sql](./product-sales-analysis-iii/Solution.sql) |
 | 1161 | [Project Employees I](./project-employees-i/README.md) | Easy | `Database` | [project-employees-i/Solution.sql](./project-employees-i/Solution.sql) |
 | 1338 | [Queries Quality and Percentage](./queries-quality-and-percentage/README.md) | Easy | `Database` | [queries-quality-and-percentage/Solution.sql](./queries-quality-and-percentage/Solution.sql) |
 | 178 | [Rank Scores](./rank-scores/README.md) | Medium | `Database` | [rank-scores/Solution.sql](./rank-scores/Solution.sql) |
@@ -220,6 +224,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 610 | [Triangle Judgement](./triangle-judgement/README.md) | Easy | `Database` | [triangle-judgement/Solution.sql](./triangle-judgement/Solution.sql) |
 | 1 | [Two Sum](./two-sum/README.md) | Easy | `Array`, `Hash Table` | [two-sum/Solution.py](./two-sum/Solution.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](./two-sum-ii-input-array-is-sorted/README.md) | Medium | `Array`, `Two Pointers`, `Binary Search` | [two-sum-ii-input-array-is-sorted/Solution.py](./two-sum-ii-input-array-is-sorted/Solution.py) |
+| 1245 | [User Activity for the Past 30 Days I](./user-activity-for-the-past-30-days-i/README.md) | Easy | `Database` | [user-activity-for-the-past-30-days-i/Solution.sql](./user-activity-for-the-past-30-days-i/Solution.sql) |
 | 242 | [Valid Anagram](./valid-anagram/README.md) | Easy | `Hash Table`, `String`, `Sorting` | [valid-anagram/Solution.py](./valid-anagram/Solution.py) |
 | 20 | [Valid Parentheses](./valid-parentheses/README.md) | Easy | `String`, `Stack`, `Bracket Sequences` | [valid-parentheses/Solution.py](./valid-parentheses/Solution.py) |
 | 290 | [Word Pattern](./word-pattern/README.md) | Easy | `Hash Table`, `String` | [word-pattern/Solution.py](./word-pattern/Solution.py) |
