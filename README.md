@@ -4,9 +4,9 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `164`
-- 🟢 **Easy:** `95`
-- 🟡 **Medium:** `64`
+- **Total Solved:** `166`
+- 🟢 **Easy:** `96`
+- 🟡 **Medium:** `65`
 - 🔴 **Hard:** `5`
 
 ## 🏷️ Topic Summary
@@ -14,7 +14,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | Topic | Solved Count |
 | :--- | :---: |
 | `Array` | 70 |
-| `Database` | 51 |
+| `Database` | 53 |
 | `Hash Table` | 33 |
 | `Two Pointers` | 28 |
 | `String` | 28 |
@@ -74,6 +74,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 2 | [Add Two Numbers](./add-two-numbers/README.md) | Medium | `Linked List`, `Math`, `Recursion` | [add-two-numbers/Solution.py](./add-two-numbers/Solution.py) |
 | 1446 | [Angle Between Hands of a Clock](./angle-between-hands-of-a-clock/README.md) | Medium | `Math` | [angle-between-hands-of-a-clock/Solution.py](./angle-between-hands-of-a-clock/Solution.py) |
 | 1258 | [Article Views I](./article-views-i/README.md) | Easy | `Database` | [article-views-i/Solution.sql](./article-views-i/Solution.sql) |
+| 1390 | [Average Selling Price](./average-selling-price/README.md) | Easy | `Database` | [average-selling-price/Solution.sql](./average-selling-price/Solution.sql) |
 | 1801 | [Average Time of Process per Machine](./average-time-of-process-per-machine/README.md) | Easy | `Database` | [average-time-of-process-per-machine/Solution.sql](./average-time-of-process-per-machine/Solution.sql) |
 | 121 | [Best Time to Buy and Sell Stock](./best-time-to-buy-and-sell-stock/README.md) | Easy | `Array`, `Dynamic Programming` | [best-time-to-buy-and-sell-stock/Solution.py](./best-time-to-buy-and-sell-stock/Solution.py) |
 | 595 | [Big Countries](./big-countries/README.md) | Easy | `Database` | [big-countries/Solution.sql](./big-countries/Solution.sql) |
@@ -196,6 +197,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 19 | [Remove Nth Node From End of List](./remove-nth-node-from-end-of-list/README.md) | Medium | `Linked List`, `Two Pointers` | [remove-nth-node-from-end-of-list/Solution.py](./remove-nth-node-from-end-of-list/Solution.py) |
 | 187 | [Repeated DNA Sequences](./repeated-dna-sequences/README.md) | Medium | `Hash Table`, `String`, `Bit Manipulation`, `Sliding Window`, `Rolling Hash`, `Hash Function`, `Z Algorithm`, `Boyer–Moore String-Search Algorithm` | [repeated-dna-sequences/Solution.py](./repeated-dna-sequences/Solution.py) |
 | 1509 | [Replace Employee ID With The Unique Identifier](./replace-employee-id-with-the-unique-identifier/README.md) | Easy | `Database` | [replace-employee-id-with-the-unique-identifier/Solution.sql](./replace-employee-id-with-the-unique-identifier/Solution.sql) |
+| 1452 | [Restaurant Growth](./restaurant-growth/README.md) | Medium | `Database` | [restaurant-growth/Solution.sql](./restaurant-growth/Solution.sql) |
 | 344 | [Reverse String](./reverse-string/README.md) | Easy | `Two Pointers`, `String` | [reverse-string/Solution.py](./reverse-string/Solution.py) |
 | 345 | [Reverse Vowels of a String](./reverse-vowels-of-a-string/README.md) | Easy | `Two Pointers`, `String` | [reverse-vowels-of-a-string/Solution.py](./reverse-vowels-of-a-string/Solution.py) |
 | 197 | [Rising Temperature](./rising-temperature/README.md) | Easy | `Database` | [rising-temperature/Solution.sql](./rising-temperature/Solution.sql) |
