@@ -4,8 +4,8 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `166`
-- 🟢 **Easy:** `96`
+- **Total Solved:** `167`
+- 🟢 **Easy:** `97`
 - 🟡 **Medium:** `65`
 - 🔴 **Hard:** `5`
 
@@ -14,7 +14,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | Topic | Solved Count |
 | :--- | :---: |
 | `Array` | 70 |
-| `Database` | 53 |
+| `Database` | 54 |
 | `Hash Table` | 33 |
 | `Two Pointers` | 28 |
 | `String` | 28 |
@@ -117,6 +117,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 287 | [Find the Duplicate Number](./find-the-duplicate-number/README.md) | Medium | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation`, `Pigeonhole Principle`, `Floyd's Cycle Finding Algorithm` | [find-the-duplicate-number/Solution.py](./find-the-duplicate-number/Solution.py) |
 | 1833 | [Find the Highest Altitude](./find-the-highest-altitude/README.md) | Easy | `Array`, `Prefix Sum` | [find-the-highest-altitude/Solution.py](./find-the-highest-altitude/Solution.py) |
 | 28 | [Find the Index of the First Occurrence in a String](./find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | `Two Pointers`, `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm`, `Boyer–Moore String-Search Algorithm` | [find-the-index-of-the-first-occurrence-in-a-string/Solution.py](./find-the-index-of-the-first-occurrence-in-a-string/Solution.py) |
+| 1664 | [Find Users With Valid E-Mails](./find-users-with-valid-e-mails/README.md) | Easy | `Database` | [find-users-with-valid-e-mails/Solution.sql](./find-users-with-valid-e-mails/Solution.sql) |
 | 1811 | [Fix Names in a Table](./fix-names-in-a-table/README.md) | Easy | `Database` | [fix-names-in-a-table/Solution.sql](./fix-names-in-a-table/Solution.sql) |
 | 412 | [Fizz Buzz](./fizz-buzz/README.md) | Easy | `Math`, `String`, `Simulation` | [fizz-buzz/Solution.py](./fizz-buzz/Solution.py) |
 | 940 | [Fruit Into Baskets](./fruit-into-baskets/README.md) | Medium | `Array`, `Hash Table`, `Sliding Window` | [fruit-into-baskets/Solution.py](./fruit-into-baskets/Solution.py) |
