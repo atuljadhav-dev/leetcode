@@ -4,8 +4,8 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `167`
-- 🟢 **Easy:** `97`
+- **Total Solved:** `168`
+- 🟢 **Easy:** `98`
 - 🟡 **Medium:** `65`
 - 🔴 **Hard:** `5`
 
@@ -13,7 +13,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 | Topic | Solved Count |
 | :--- | :---: |
-| `Array` | 70 |
+| `Array` | 71 |
 | `Database` | 54 |
 | `Hash Table` | 33 |
 | `Two Pointers` | 28 |
@@ -23,8 +23,8 @@ Automated synchronization of solved LeetCode problems with original completion d
 | `Sliding Window` | 14 |
 | `Binary Search` | 14 |
 | `Simulation` | 10 |
+| `Prefix Sum` | 9 |
 | `Linked List` | 8 |
-| `Prefix Sum` | 8 |
 | `Dynamic Programming` | 7 |
 | `Bit Manipulation` | 5 |
 | `Counting` | 5 |
@@ -213,6 +213,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) | Easy | `Array`, `Hash Table`, `Sorting` | [smallest-missing-integer-greater-than-sequential-prefix-sum/Solution.py](./smallest-missing-integer-greater-than-sequential-prefix-sum/Solution.py) |
 | 4080 | [Smallest Missing Multiple of K](./smallest-missing-multiple-of-k/README.md) | Easy | `Array`, `Hash Table` | [smallest-missing-multiple-of-k/Solution.py](./smallest-missing-multiple-of-k/Solution.py) |
 | 3812 | [Smallest Palindromic Rearrangement I](./smallest-palindromic-rearrangement-i/README.md) | Medium | `String`, `Sorting`, `Counting Sort` | [smallest-palindromic-rearrangement-i/Solution.py](./smallest-palindromic-rearrangement-i/Solution.py) |
+| 4284 | [Smallest Stable Index I](./smallest-stable-index-i/README.md) | Easy | `Array`, `Prefix Sum` | [smallest-stable-index-i/Solution.py](./smallest-stable-index-i/Solution.py) |
 | 75 | [Sort Colors](./sort-colors/README.md) | Medium | `Array`, `Two Pointers`, `Sorting`, `Quicksort`, `Bubble Sort` | [sort-colors/Solution.py](./sort-colors/Solution.py) |
 | 1019 | [Squares of a Sorted Array](./squares-of-a-sorted-array/README.md) | Easy | `Array`, `Two Pointers`, `Sorting` | [squares-of-a-sorted-array/Solution.py](./squares-of-a-sorted-array/Solution.py) |
 | 909 | [Stone Game](./stone-game/README.md) | Medium | `Array`, `Math`, `Dynamic Programming`, `Minimax`, `Game Theory`, `Zero-Sum Game` | [stone-game/Solution.py](./stone-game/Solution.py) |
