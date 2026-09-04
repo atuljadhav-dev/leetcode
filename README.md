@@ -4,17 +4,17 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `168`
+- **Total Solved:** `170`
 - 🟢 **Easy:** `98`
-- 🟡 **Medium:** `65`
-- 🔴 **Hard:** `5`
+- 🟡 **Medium:** `66`
+- 🔴 **Hard:** `6`
 
 ## 🏷️ Topic Summary
 
 | Topic | Solved Count |
 | :--- | :---: |
 | `Array` | 71 |
-| `Database` | 54 |
+| `Database` | 56 |
 | `Hash Table` | 33 |
 | `Two Pointers` | 28 |
 | `String` | 28 |
@@ -172,6 +172,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 1480 | [Movie Rating](./movie-rating/README.md) | Medium | `Database` | [movie-rating/Solution.sql](./movie-rating/Solution.sql) |
 | 43 | [Multiply Strings](./multiply-strings/README.md) | Medium | `Math`, `String`, `Simulation` | [multiply-strings/Solution.py](./multiply-strings/Solution.py) |
 | 620 | [Not Boring Movies](./not-boring-movies/README.md) | Easy | `Database` | [not-boring-movies/Solution.sql](./not-boring-movies/Solution.sql) |
+| 177 | [Nth Highest Salary](./nth-highest-salary/README.md) | Medium | `Database` | [nth-highest-salary/Solution.sql](./nth-highest-salary/Solution.sql) |
 | 434 | [Number of Segments in a String](./number-of-segments-in-a-string/README.md) | Easy | `String` | [number-of-segments-in-a-string/Solution.py](./number-of-segments-in-a-string/Solution.py) |
 | 2495 | [Number of Unique Subjects Taught by Each Teacher](./number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | `Database` | [number-of-unique-subjects-taught-by-each-teacher/Solution.sql](./number-of-unique-subjects-taught-by-each-teacher/Solution.sql) |
 | 3820 | [Number of Unique XOR Triplets II](./number-of-unique-xor-triplets-ii/README.md) | Medium | `Array`, `Math`, `Bit Manipulation`, `Enumeration` | [number-of-unique-xor-triplets-ii/Solution.py](./number-of-unique-xor-triplets-ii/Solution.py) |
@@ -226,6 +227,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 1882 | [The Number of Employees Which Report to Each Employee](./the-number-of-employees-which-report-to-each-employee/README.md) | Easy | `Database` | [the-number-of-employees-which-report-to-each-employee/Solution.sql](./the-number-of-employees-which-report-to-each-employee/Solution.sql) |
 | 1541 | [Top Travellers](./top-travellers/README.md) | Easy | `Database` | [top-travellers/Solution.sql](./top-travellers/Solution.sql) |
 | 610 | [Triangle Judgement](./triangle-judgement/README.md) | Easy | `Database` | [triangle-judgement/Solution.sql](./triangle-judgement/Solution.sql) |
+| 262 | [Trips and Users](./trips-and-users/README.md) | Hard | `Database` | [trips-and-users/Solution.sql](./trips-and-users/Solution.sql) |
 | 1 | [Two Sum](./two-sum/README.md) | Easy | `Array`, `Hash Table` | [two-sum/Solution.py](./two-sum/Solution.py) |
 | 167 | [Two Sum II - Input Array Is Sorted](./two-sum-ii-input-array-is-sorted/README.md) | Medium | `Array`, `Two Pointers`, `Binary Search` | [two-sum-ii-input-array-is-sorted/Solution.py](./two-sum-ii-input-array-is-sorted/Solution.py) |
 | 1245 | [User Activity for the Past 30 Days I](./user-activity-for-the-past-30-days-i/README.md) | Easy | `Database` | [user-activity-for-the-past-30-days-i/Solution.sql](./user-activity-for-the-past-30-days-i/Solution.sql) |
