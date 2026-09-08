@@ -4,26 +4,26 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `170`
-- 🟢 **Easy:** `98`
-- 🟡 **Medium:** `66`
+- **Total Solved:** `179`
+- 🟢 **Easy:** `102`
+- 🟡 **Medium:** `71`
 - 🔴 **Hard:** `6`
 
 ## 🏷️ Topic Summary
 
 | Topic | Solved Count |
 | :--- | :---: |
-| `Array` | 71 |
-| `Database` | 56 |
+| `Array` | 72 |
+| `Database` | 63 |
 | `Hash Table` | 33 |
 | `Two Pointers` | 28 |
 | `String` | 28 |
 | `Sorting` | 24 |
-| `Math` | 22 |
+| `Math` | 23 |
 | `Sliding Window` | 14 |
 | `Binary Search` | 14 |
 | `Simulation` | 10 |
-| `Prefix Sum` | 9 |
+| `Prefix Sum` | 10 |
 | `Linked List` | 8 |
 | `Dynamic Programming` | 7 |
 | `Bit Manipulation` | 5 |
@@ -76,6 +76,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 1258 | [Article Views I](./article-views-i/README.md) | Easy | `Database` | [article-views-i/Solution.sql](./article-views-i/Solution.sql) |
 | 1390 | [Average Selling Price](./average-selling-price/README.md) | Easy | `Database` | [average-selling-price/Solution.sql](./average-selling-price/Solution.sql) |
 | 1801 | [Average Time of Process per Machine](./average-time-of-process-per-machine/README.md) | Easy | `Database` | [average-time-of-process-per-machine/Solution.sql](./average-time-of-process-per-machine/Solution.sql) |
+| 1734 | [Bank Account Summary II](./bank-account-summary-ii/README.md) | Easy | `Database` | [bank-account-summary-ii/Solution.sql](./bank-account-summary-ii/Solution.sql) |
 | 121 | [Best Time to Buy and Sell Stock](./best-time-to-buy-and-sell-stock/README.md) | Easy | `Array`, `Dynamic Programming` | [best-time-to-buy-and-sell-stock/Solution.py](./best-time-to-buy-and-sell-stock/Solution.py) |
 | 595 | [Big Countries](./big-countries/README.md) | Easy | `Database` | [big-countries/Solution.sql](./big-countries/Solution.sql) |
 | 619 | [Biggest Single Number](./biggest-single-number/README.md) | Easy | `Database` | [biggest-single-number/Solution.sql](./biggest-single-number/Solution.sql) |
@@ -91,6 +92,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 11 | [Container With Most Water](./container-with-most-water/README.md) | Medium | `Array`, `Two Pointers`, `Greedy` | [container-with-most-water/Solution.py](./container-with-most-water/Solution.py) |
 | 217 | [Contains Duplicate](./contains-duplicate/README.md) | Easy | `Array`, `Hash Table`, `Sorting` | [contains-duplicate/Solution.py](./contains-duplicate/Solution.py) |
 | 219 | [Contains Duplicate II](./contains-duplicate-ii/README.md) | Easy | `Array`, `Hash Table`, `Sliding Window` | [contains-duplicate-ii/Solution.py](./contains-duplicate-ii/Solution.py) |
+| 4245 | [Count Commas in Range](./count-commas-in-range/README.md) | Easy | `Math` | [count-commas-in-range/Solution.py](./count-commas-in-range/Solution.py) |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./count-submatrices-with-top-left-element-and-sum-less-than-k/README.md) | Medium | `Array`, `Matrix`, `Prefix Sum` | [count-submatrices-with-top-left-element-and-sum-less-than-k/Solution.py](./count-submatrices-with-top-left-element-and-sum-less-than-k/Solution.py) |
 | 3405 | [Count the Number of Special Characters II](./count-the-number-of-special-characters-ii/README.md) | Medium | `Hash Table`, `String` | [count-the-number-of-special-characters-ii/Solution.py](./count-the-number-of-special-characters-ii/Solution.py) |
 | 586 | [Customer Placing the Largest Number of Orders](./customer-placing-the-largest-number-of-orders/README.md) | Easy | `Database` | [customer-placing-the-largest-number-of-orders/Solution.sql](./customer-placing-the-largest-number-of-orders/Solution.sql) |
@@ -117,9 +119,11 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 287 | [Find the Duplicate Number](./find-the-duplicate-number/README.md) | Medium | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation`, `Pigeonhole Principle`, `Floyd's Cycle Finding Algorithm` | [find-the-duplicate-number/Solution.py](./find-the-duplicate-number/Solution.py) |
 | 1833 | [Find the Highest Altitude](./find-the-highest-altitude/README.md) | Easy | `Array`, `Prefix Sum` | [find-the-highest-altitude/Solution.py](./find-the-highest-altitude/Solution.py) |
 | 28 | [Find the Index of the First Occurrence in a String](./find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | `Two Pointers`, `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm`, `Boyer–Moore String-Search Algorithm` | [find-the-index-of-the-first-occurrence-in-a-string/Solution.py](./find-the-index-of-the-first-occurrence-in-a-string/Solution.py) |
+| 1892 | [Find Total Time Spent by Each Employee](./find-total-time-spent-by-each-employee/README.md) | Easy | `Database` | [find-total-time-spent-by-each-employee/Solution.sql](./find-total-time-spent-by-each-employee/Solution.sql) |
 | 1664 | [Find Users With Valid E-Mails](./find-users-with-valid-e-mails/README.md) | Easy | `Database` | [find-users-with-valid-e-mails/Solution.sql](./find-users-with-valid-e-mails/Solution.sql) |
 | 1811 | [Fix Names in a Table](./fix-names-in-a-table/README.md) | Easy | `Database` | [fix-names-in-a-table/Solution.sql](./fix-names-in-a-table/Solution.sql) |
 | 412 | [Fizz Buzz](./fizz-buzz/README.md) | Easy | `Math`, `String`, `Simulation` | [fizz-buzz/Solution.py](./fizz-buzz/Solution.py) |
+| 602 | [Friend Requests II: Who Has the Most Friends](./friend-requests-ii-who-has-the-most-friends/README.md) | Medium | `Database` | [friend-requests-ii-who-has-the-most-friends/Solution.sql](./friend-requests-ii-who-has-the-most-friends/Solution.sql) |
 | 940 | [Fruit Into Baskets](./fruit-into-baskets/README.md) | Medium | `Array`, `Hash Table`, `Sliding Window` | [fruit-into-baskets/Solution.py](./fruit-into-baskets/Solution.py) |
 | 3995 | [GCD of Odd and Even Sums](./gcd-of-odd-and-even-sums/README.md) | Easy | `Math`, `Number Theory` | [gcd-of-odd-and-even-sums/Solution.py](./gcd-of-odd-and-even-sums/Solution.py) |
 | 1625 | [Group Sold Products By The Date](./group-sold-products-by-the-date/README.md) | Easy | `Database` | [group-sold-products-by-the-date/Solution.sql](./group-sold-products-by-the-date/Solution.sql) |
@@ -127,6 +131,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 57 | [Insert Interval](./insert-interval/README.md) | Medium | `Array` | [insert-interval/Solution.py](./insert-interval/Solution.py) |
 | 349 | [Intersection of Two Arrays](./intersection-of-two-arrays/README.md) | Easy | `Array`, `Hash Table`, `Two Pointers`, `Binary Search`, `Sorting` | [intersection-of-two-arrays/Solution.py](./intersection-of-two-arrays/Solution.py) |
 | 1827 | [Invalid Tweets](./invalid-tweets/README.md) | Easy | `Database` | [invalid-tweets/Solution.sql](./invalid-tweets/Solution.sql) |
+| 585 | [Investments in 2016](./investments-in-2016/README.md) | Medium | `Database` | [investments-in-2016/Solution.sql](./investments-in-2016/Solution.sql) |
 | 205 | [Isomorphic Strings](./isomorphic-strings/README.md) | Easy | `Hash Table`, `String` | [isomorphic-strings/Solution.py](./isomorphic-strings/Solution.py) |
 | 2714 | [Left and Right Sum Differences](./left-and-right-sum-differences/README.md) | Easy | `Array`, `Prefix Sum` | [left-and-right-sum-differences/Solution.py](./left-and-right-sum-differences/Solution.py) |
 | 58 | [Length of Last Word](./length-of-last-word/README.md) | Easy | `String` | [length-of-last-word/Solution.py](./length-of-last-word/Solution.py) |
@@ -184,6 +189,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 66 | [Plus One](./plus-one/README.md) | Easy | `Array`, `Math` | [plus-one/Solution.py](./plus-one/Solution.py) |
 | 50 | [Pow(x, n)](./powx-n/README.md) | Medium | `Math`, `Recursion` | [powx-n/Solution.py](./powx-n/Solution.py) |
 | 1942 | [Primary Department for Each Employee](./primary-department-for-each-employee/README.md) | Easy | `Database` | [primary-department-for-each-employee/Solution.sql](./primary-department-for-each-employee/Solution.sql) |
+| 1278 | [Product Price at a Given Date](./product-price-at-a-given-date/README.md) | Medium | `Database` | [product-price-at-a-given-date/Solution.sql](./product-price-at-a-given-date/Solution.sql) |
 | 1153 | [Product Sales Analysis I](./product-sales-analysis-i/README.md) | Easy | `Database` | [product-sales-analysis-i/Solution.sql](./product-sales-analysis-i/Solution.sql) |
 | 1155 | [Product Sales Analysis III](./product-sales-analysis-iii/README.md) | Medium | `Database` | [product-sales-analysis-iii/Solution.sql](./product-sales-analysis-iii/Solution.sql) |
 | 1161 | [Project Employees I](./project-employees-i/README.md) | Easy | `Database` | [project-employees-i/Solution.sql](./project-employees-i/Solution.sql) |
@@ -215,6 +221,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 4080 | [Smallest Missing Multiple of K](./smallest-missing-multiple-of-k/README.md) | Easy | `Array`, `Hash Table` | [smallest-missing-multiple-of-k/Solution.py](./smallest-missing-multiple-of-k/Solution.py) |
 | 3812 | [Smallest Palindromic Rearrangement I](./smallest-palindromic-rearrangement-i/README.md) | Medium | `String`, `Sorting`, `Counting Sort` | [smallest-palindromic-rearrangement-i/Solution.py](./smallest-palindromic-rearrangement-i/Solution.py) |
 | 4284 | [Smallest Stable Index I](./smallest-stable-index-i/README.md) | Easy | `Array`, `Prefix Sum` | [smallest-stable-index-i/Solution.py](./smallest-stable-index-i/Solution.py) |
+| 4285 | [Smallest Stable Index II](./smallest-stable-index-ii/README.md) | Medium | `Array`, `Prefix Sum` | [smallest-stable-index-ii/Solution.py](./smallest-stable-index-ii/Solution.py) |
 | 75 | [Sort Colors](./sort-colors/README.md) | Medium | `Array`, `Two Pointers`, `Sorting`, `Quicksort`, `Bubble Sort` | [sort-colors/Solution.py](./sort-colors/Solution.py) |
 | 1019 | [Squares of a Sorted Array](./squares-of-a-sorted-array/README.md) | Easy | `Array`, `Two Pointers`, `Sorting` | [squares-of-a-sorted-array/Solution.py](./squares-of-a-sorted-array/Solution.py) |
 | 909 | [Stone Game](./stone-game/README.md) | Medium | `Array`, `Math`, `Dynamic Programming`, `Minimax`, `Game Theory`, `Zero-Sum Game` | [stone-game/Solution.py](./stone-game/Solution.py) |
@@ -224,8 +231,10 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 30 | [Substring with Concatenation of All Words](./substring-with-concatenation-of-all-words/README.md) | Hard | `Hash Table`, `String`, `Sliding Window` | [substring-with-concatenation-of-all-words/Solution.py](./substring-with-concatenation-of-all-words/Solution.py) |
 | 2728 | [Sum in a Matrix](./sum-in-a-matrix/README.md) | Medium | `Array`, `Sorting`, `Heap (Priority Queue)`, `Matrix`, `Simulation` | [sum-in-a-matrix/Solution.py](./sum-in-a-matrix/Solution.py) |
 | 4242 | [Sum of GCD of Formed Pairs](./sum-of-gcd-of-formed-pairs/README.md) | Medium | `Array`, `Math`, `Two Pointers`, `Sorting`, `Simulation`, `Number Theory` | [sum-of-gcd-of-formed-pairs/Solution.py](./sum-of-gcd-of-formed-pairs/Solution.py) |
+| 627 | [Swap Sex of Employees](./swap-sex-of-employees/README.md) | Easy | `Database` | [swap-sex-of-employees/Solution.sql](./swap-sex-of-employees/Solution.sql) |
 | 1882 | [The Number of Employees Which Report to Each Employee](./the-number-of-employees-which-report-to-each-employee/README.md) | Easy | `Database` | [the-number-of-employees-which-report-to-each-employee/Solution.sql](./the-number-of-employees-which-report-to-each-employee/Solution.sql) |
 | 1541 | [Top Travellers](./top-travellers/README.md) | Easy | `Database` | [top-travellers/Solution.sql](./top-travellers/Solution.sql) |
+| 608 | [Tree Node](./tree-node/README.md) | Medium | `Database` | [tree-node/Solution.sql](./tree-node/Solution.sql) |
 | 610 | [Triangle Judgement](./triangle-judgement/README.md) | Easy | `Database` | [triangle-judgement/Solution.sql](./triangle-judgement/Solution.sql) |
 | 262 | [Trips and Users](./trips-and-users/README.md) | Hard | `Database` | [trips-and-users/Solution.sql](./trips-and-users/Solution.sql) |
 | 1 | [Two Sum](./two-sum/README.md) | Easy | `Array`, `Hash Table` | [two-sum/Solution.py](./two-sum/Solution.py) |
