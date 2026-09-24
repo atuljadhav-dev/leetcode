@@ -4,25 +4,25 @@ Automated synchronization of solved LeetCode problems with original completion d
 
 ## 📊 Progress Overview
 
-- **Total Solved:** `204`
-- 🟢 **Easy:** `112`
+- **Total Solved:** `208`
+- 🟢 **Easy:** `115`
 - 🟡 **Medium:** `86`
-- 🔴 **Hard:** `6`
+- 🔴 **Hard:** `7`
 
 ## 🏷️ Topic Summary
 
 | Topic | Solved Count |
 | :--- | :---: |
-| `Database` | 82 |
-| `Array` | 73 |
+| `Database` | 83 |
+| `Array` | 75 |
 | `Hash Table` | 33 |
-| `String` | 31 |
-| `Two Pointers` | 30 |
+| `String` | 32 |
+| `Two Pointers` | 31 |
+| `Math` | 25 |
 | `Sorting` | 24 |
-| `Math` | 24 |
 | `Sliding Window` | 14 |
 | `Binary Search` | 14 |
-| `Simulation` | 11 |
+| `Simulation` | 12 |
 | `Prefix Sum` | 10 |
 | `Linked List` | 8 |
 | `Dynamic Programming` | 7 |
@@ -88,6 +88,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 596 | [Classes With at Least 5 Students](./classes-with-at-least-5-students/README.md) | Easy | `Database` | [classes-with-at-least-5-students/Solution.sql](./classes-with-at-least-5-students/Solution.sql) |
 | 175 | [Combine Two Tables](./combine-two-tables/README.md) | Easy | `Database` | [combine-two-tables/Solution.sql](./combine-two-tables/Solution.sql) |
 | 4058 | [Compute Alternating Sum](./compute-alternating-sum/README.md) | Easy | `Array`, `Simulation` | [compute-alternating-sum/Solution.py](./compute-alternating-sum/Solution.py) |
+| 2058 | [Concatenation of Array](./concatenation-of-array/README.md) | Easy | `Array`, `Simulation` | [concatenation-of-array/Solution.py](./concatenation-of-array/Solution.py) |
 | 2087 | [Confirmation Rate](./confirmation-rate/README.md) | Medium | `Database` | [confirmation-rate/Solution.sql](./confirmation-rate/Solution.sql) |
 | 180 | [Consecutive Numbers](./consecutive-numbers/README.md) | Medium | `Database` | [consecutive-numbers/Solution.sql](./consecutive-numbers/Solution.sql) |
 | 4256 | [Construct Uniform Parity Array I](./construct-uniform-parity-array-i/README.md) | Easy | `Array`, `Math` | [construct-uniform-parity-array-i/Solution.py](./construct-uniform-parity-array-i/Solution.py) |
@@ -117,6 +118,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 626 | [Exchange Seats](./exchange-seats/README.md) | Medium | `Database` | [exchange-seats/Solution.sql](./exchange-seats/Solution.sql) |
 | 438 | [Find All Anagrams in a String](./find-all-anagrams-in-a-string/README.md) | Medium | `Hash Table`, `String`, `Sliding Window` | [find-all-anagrams-in-a-string/Solution.py](./find-all-anagrams-in-a-string/Solution.py) |
 | 3910 | [Find Books with No Available Copies](./find-books-with-no-available-copies/README.md) | Easy | `Database` | [find-books-with-no-available-copies/Solution.sql](./find-books-with-no-available-copies/Solution.sql) |
+| 3891 | [Find Category Recommendation Pairs](./find-category-recommendation-pairs/README.md) | Hard | `Database` | [find-category-recommendation-pairs/Solution.sql](./find-category-recommendation-pairs/Solution.sql) |
 | 3932 | [Find COVID Recovery Patients](./find-covid-recovery-patients/README.md) | Medium | `Database` | [find-covid-recovery-patients/Solution.sql](./find-covid-recovery-patients/Solution.sql) |
 | 584 | [Find Customer Referee](./find-customer-referee/README.md) | Easy | `Database` | [find-customer-referee/Solution.sql](./find-customer-referee/Solution.sql) |
 | 34 | [Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | `Array`, `Binary Search` | [find-first-and-last-position-of-element-in-sorted-array/Solution.py](./find-first-and-last-position-of-element-in-sorted-array/Solution.py) |
@@ -242,6 +244,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 2598 | [Shortest Distance to Target String in a Circular Array](./shortest-distance-to-target-string-in-a-circular-array/README.md) | Easy | `Array`, `String` | [shortest-distance-to-target-string-in-a-circular-array/Solution.py](./shortest-distance-to-target-string-in-a-circular-array/Solution.py) |
 | 540 | [Single Element in a Sorted Array](./single-element-in-a-sorted-array/README.md) | Medium | `Array`, `Binary Search` | [single-element-in-a-sorted-array/Solution.py](./single-element-in-a-sorted-array/Solution.py) |
 | 3626 | [Smallest Divisible Digit Product I](./smallest-divisible-digit-product-i/README.md) | Easy | `Math`, `Enumeration` | [smallest-divisible-digit-product-i/Solution.py](./smallest-divisible-digit-product-i/Solution.py) |
+| 3869 | [Smallest Index With Digit Sum Equal to Index](./smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | `Array`, `Math` | [smallest-index-with-digit-sum-equal-to-index/Solution.py](./smallest-index-with-digit-sum-equal-to-index/Solution.py) |
 | 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) | Easy | `Array`, `Hash Table`, `Sorting` | [smallest-missing-integer-greater-than-sequential-prefix-sum/Solution.py](./smallest-missing-integer-greater-than-sequential-prefix-sum/Solution.py) |
 | 4080 | [Smallest Missing Multiple of K](./smallest-missing-multiple-of-k/README.md) | Easy | `Array`, `Hash Table` | [smallest-missing-multiple-of-k/Solution.py](./smallest-missing-multiple-of-k/Solution.py) |
 | 3812 | [Smallest Palindromic Rearrangement I](./smallest-palindromic-rearrangement-i/README.md) | Medium | `String`, `Sorting`, `Counting Sort` | [smallest-palindromic-rearrangement-i/Solution.py](./smallest-palindromic-rearrangement-i/Solution.py) |
@@ -266,6 +269,7 @@ Automated synchronization of solved LeetCode problems with original completion d
 | 167 | [Two Sum II - Input Array Is Sorted](./two-sum-ii-input-array-is-sorted/README.md) | Medium | `Array`, `Two Pointers`, `Binary Search` | [two-sum-ii-input-array-is-sorted/Solution.py](./two-sum-ii-input-array-is-sorted/Solution.py) |
 | 1245 | [User Activity for the Past 30 Days I](./user-activity-for-the-past-30-days-i/README.md) | Easy | `Database` | [user-activity-for-the-past-30-days-i/Solution.sql](./user-activity-for-the-past-30-days-i/Solution.sql) |
 | 242 | [Valid Anagram](./valid-anagram/README.md) | Easy | `Hash Table`, `String`, `Sorting` | [valid-anagram/Solution.py](./valid-anagram/Solution.py) |
+| 125 | [Valid Palindrome](./valid-palindrome/README.md) | Easy | `Two Pointers`, `String` | [valid-palindrome/Solution.py](./valid-palindrome/Solution.py) |
 | 20 | [Valid Parentheses](./valid-parentheses/README.md) | Easy | `String`, `Stack`, `Bracket Sequences` | [valid-parentheses/Solution.py](./valid-parentheses/Solution.py) |
 | 290 | [Word Pattern](./word-pattern/README.md) | Easy | `Hash Table`, `String` | [word-pattern/Solution.py](./word-pattern/Solution.py) |
 | 6 | [Zigzag Conversion](./zigzag-conversion/README.md) | Medium | `String` | [zigzag-conversion/Solution.py](./zigzag-conversion/Solution.py) |
